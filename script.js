@@ -1,11 +1,11 @@
 /**
- * Etik Hacker - Kişisel Biyografi Web Sitesi
+ * MedusaBest - Kişisel Biyografi Web Sitesi
  * script.js - Ana JavaScript dosyası
  */
 
 // DOM içeriği yüklendiğinde çalışacak fonksiyonlar
 document.addEventListener('DOMContentLoaded', function() {
-    console.log('Etik Hacker web sitesi yüklendi!');
+    console.log('web sitesi yüklendi!');
     
     // Tema değiştirici
     setupThemeToggle();
@@ -168,7 +168,7 @@ function setupTypingAnimation() {
     
     const texts = [
         "echo 'Siber dünyaya hoş geldiniz!'",
-        "sudo nmap -sS -sV -O etik.hacker",
+        "sudo nmap -sS -sV -O medusa.best",
         "cat /etc/passwd | grep 'security'",
         "python3 zafiyet_tarayici.py --hedef=website.com",
         "git commit -m 'Güvenlik açığı giderildi'"
